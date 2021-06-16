@@ -6,4 +6,7 @@ html{
   position: relative;
   height: 800px;
   overflow: scroll;
+  width: 80%;
+  max-width: 500px;
+  scroll-snap-type: y mandatory;
 }
