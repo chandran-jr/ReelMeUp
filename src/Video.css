@@ -1,8 +1,17 @@
 .video{
-    border: 1px solid black;
+    border: 3px solid rgb(23, 135, 240);
     width: 100%;
     height: 100%;
+    background-color: white;
     scroll-snap-align: start;
     position: relative;
 
+}
+
+.app__videos::-webkit-scrollbar{
+    display: none;
+}
+
+.app__videos{
+    
 }

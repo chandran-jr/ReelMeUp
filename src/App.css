@@ -10,3 +10,7 @@ html{
   max-width: 500px;
   scroll-snap-type: y mandatory;
 }
+
+.app{
+  background-color: black;
+}
