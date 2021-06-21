@@ -26,7 +26,7 @@ html{
   background-color: black;
   height: 100%;
   width: 100vw;
-  display: grid;
+  display: flex;
   place-items: center;
 }
 
