@@ -1,5 +1,7 @@
 # ReelMeUp
 
+<img src="reelmeup.PNG">
+
 ## Available Scripts
 
 In the project directory, you can run:
